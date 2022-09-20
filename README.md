@@ -285,7 +285,7 @@ Item # | Description | Completed
 1d | What does `log` do? |Shows a list of global options and commands that can be used after log to accomplish different tasks with the system logs. For example, log erase deletes the system logs' data.
 2a | 2nd Favorite emoji |✌️
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/73e6855b085cedc3fe6e0879708c573f7a1448cc)
-2c | Full path to your working directory |
+2c | Full path to your working directory |/Users/alexanderli/Sites/dig245-critical-web-design/learn-git-milestones
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
