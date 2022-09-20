@@ -283,7 +283,7 @@ Item # | Description | Completed
 1b | Link to `commit #1 from Github.com` |[commit #1 from Github.com](https://github.com/alli679/learn-git-milestones/commit/bdc7da9478c9f8b16ed118ed66808360508f9c87)
 1c | Link to markdown tables docs | https://www.makeuseof.com/tag/create-markdown-table/
 1d | What does `log` do? |Shows a list of global options and commands that can be used after log to accomplish different tasks with the system logs. For example, log erase deletes the system logs' data.
-2a | 2nd Favorite emoji |
+2a | 2nd Favorite emoji |✌️
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
