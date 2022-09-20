@@ -290,7 +290,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji |👍
 2f | Link to `commit #4 from Atom` |[commit #4 from Atom](https://github.com/omundy/learn-git-milestones/commit/0e518d5118bbf170d19be7cc5cb5589385d3fd1a)
 3a | Link to `my-awesome-project` github.com repo page | https://github.com/alli679/my-awesome-project
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" | https://alli679.github.io/my-awesome-project/
 
 
 
